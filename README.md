@@ -105,7 +105,7 @@ Container(
 
 Run aplikasi tersebut dengan tekan F5, maka hasilnya akan seperti berikut.
 
-![Hasil](./images/01.png)
+
 
 <br>
 
